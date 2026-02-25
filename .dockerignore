@@ -1,0 +1,10 @@
+# Ignorar archivos innecesarios en el build
+node_modules
+npm-debug.log
+.env
+.env.local
+.git
+.gitignore
+README.md
+.DS_Store
+*.log
